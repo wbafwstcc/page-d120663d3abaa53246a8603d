@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7543f0dfcb380859da9ccd4b",
+  "owner": "wbafwstcc",
+  "repo": "page-d120663d3abaa53246a8603d",
+  "title": "JobJapan",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d120663d3abaa53246a8603d",
+      "a": "JobJapan",
+      "b": "2027官方最新地址导航",
+      "entity": "JobJapan",
+      "brand": "JobJapan",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "045ec816df4188f1424017f2951670e9fe102c9ffc891c4b277a104531335ac8",
+      "content": {
+        "primary_entity": "JobJapan",
+        "keyword1": "JobJapan",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型挑选客户端，再按订阅信息完成导入。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后依客户端文档完成订阅导入，即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐就开始",
+          "AI_DESCRIPTION": "，JobJapan 提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，按年付分别为 ¥150、¥350、¥850。流量、设备数量与节点线路随档位变化，旗舰版含 IPLC 专线优化，团队版给出 VIP 高带宽节点和定制路由选项，可按实际用量选择。",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度比较，选出合适的一档。",
+          "AI_FEATURES_TITLE": "订阅怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合轻度浏览与单人使用，月付 ¥15 门槛较低。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速优化，月付 ¥35。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，提供 VIP 高带宽节点与定制路由，月付 ¥85。",
+          "AI_FEATURE_TITLE_1": "入门用量",
+          "AI_FEATURE_TITLE_2": "游戏与流媒体",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "先确定用量与设备数量，再选择客户端并导入订阅。",
+          "AI_GUIDE_TITLE": "开通使用三步",
+          "AI_HERO_INTRO": "JobJapan 提供多档海外加速订阅，覆盖基础浏览、流媒体解锁与游戏加速等场景。根据每月流量与在线设备数量选择套餐，再按设备类型完成客户端订阅配置，即可接入节点池使用。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点线路上依次提升，按实际用量挑选即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，从基础版、旗舰版、团队版中选一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量上限与节点线路类型，确认符合自己的使用场景。",
+          "AI_STEP_TEXT_3": "按设备类型选择客户端，依客户端文档导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "JobJapan 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，每月 100GB 流量、3 台设备同时在线；如果有多设备或流媒体需求，旗舰版 5 台设备与 IPLC 专线更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出数量需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_3": "订阅信息导入后，在客户端内更新节点列表即可。不同客户端操作略有差异，请参考对应客户端文档配置。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。所有套餐按自然月重置流量。",
+          "AI_FAQ_ANSWER_5": "可以。年付基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比月付更划算，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "哪个套餐适合日常使用？",
+          "AI_FAQ_QUESTION_2": "可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "订阅导入后如何配置？",
+          "AI_FAQ_QUESTION_4": "每月流量有多少？",
+          "AI_FAQ_QUESTION_5": "可以按年付费吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "imbar.cn",
+    "host": "imbar.cn"
+  },
+  "file_hashes": {
+    "index.html": "9e126ee1b7ee110bb9553b5b7cd37b931ed5e60d868be15c911656c1cd303741",
+    "sitemap.xml": "6068d8939fd6be39293cec7f79ac4ba015de4efffedfedb4772871a0407e921f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "32fd180dd7429d9706de9ed3a94fe5250bdaabd35d82f2d2ca6b097042210b02",
+    "robots.txt": "5826b946244e522f8e528bbb29a40991c1e826c7b2502796aabf766f4b6b1016",
+    "d0da112b90bb6ca7b37f58b312a50c15.txt": "cf757f587b480871ed344df1be1a060751e24daf6336b9d7de808945ac0fd2cf"
+  },
+  "revision": "07ec2b86bd86033a5f80228a321c01d4e7200fd6ef380d4fa140bf42d644a7b6"
+}
